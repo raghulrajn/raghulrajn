@@ -50,3 +50,8 @@ I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision m
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
 </p>
+
+## 📊 GitHub stats
+![Raghul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghulrajn&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghulrajn&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
