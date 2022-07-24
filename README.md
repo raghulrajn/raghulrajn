@@ -27,10 +27,11 @@
 <p style="text-align:justify">
 I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision making. Proficient in Python, SQL and visualisation techniques to drill down insights hidden in any data. Undergrad in Electrical Engineering from <a href='https://ceg.annauniv.edu/'>College of Engineering, Guindy</a>. Intrested in Machine learning, Optimisation and Business Analytics. 
 </p>
-<p>
+
 - 💼 Working as Maketing Business Analyst @ Infineon Technologies
-- 💬 Discuss with me over data science, machine learning, and Optimisation
-</p>
+  
+- 💬 Discuss with me over data science, machine learning, SEO and Optimisation
+
 
 ### 🧰 Frameworks and libraries
 <p align="center">
