@@ -31,6 +31,7 @@ I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision m
 - 💼 Working as Maketing Business Analyst @ Infineon Technologies
 - 💬 Discuss with me over data science, machine learning, and Optimisation
 </p>
+
 ### 🧰 Frameworks and libraries
 <p align="center">
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
