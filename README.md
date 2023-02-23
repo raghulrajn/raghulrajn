@@ -52,6 +52,6 @@ I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision m
 </p>
 
 ## 📊 GitHub stats
-![Raghul's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghulrajn&show_icons=true&count_private=true)
+![Raghul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raghulrajn&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghulrajn&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghulrajn&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
