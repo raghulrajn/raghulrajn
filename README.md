@@ -11,7 +11,7 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤵 Raghul Raj | 💻 Business Analyst | Electrical Engineer | <img src="img\india.gif" width="30"><img src="img\taiwan.gif" width="30"> <img src="img\russia.gif" width="30"><img src="img\france.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤵 Raghul Raj |Electrical Engineer | 💻 Data Analyst |  <img src="img\india.gif" width="30"><img src="img\taiwan.gif" width="30"> <img src="img\russia.gif" width="30"><img src="img\france.gif" width="30"></h3>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/raghulraj2305/">
@@ -25,10 +25,10 @@
 
 ## Hi there 👋
 <p style="text-align:justify">
-I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision making. Proficient in Python, SQL and visualisation techniques to drill down insights hidden in any data. Undergrad in Electrical Engineering from <a href='https://ceg.annauniv.edu/'>College of Engineering, Guindy</a>. Intrested in Machine learning, Optimisation and Business Analytics. 
+I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision making. Proficient in Python, SQL and visualisation techniques to drill down insights hidden in any data. Undergrad in Electrical Engineering from <a href='https://ceg.annauniv.edu/'>College of Engineering, Guindy</a>. Intrested in Embedded System, Machine learning, Optimisation and Data Analytics. 
 </p>
 
-- 💼 Working as Maketing Business Analyst @ Infineon Technologies
+- 💼 Worked as Data Analyst @ Infineon Technologies
   
 - 💬 Discuss with me over data science, machine learning, SEO and Optimisation
 
