@@ -6,7 +6,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Business%20Analyst;Electrical%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Master's Student;Embedded Systems,Electrical%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 
@@ -25,12 +25,12 @@
 
 ## Hi there 👋
 <p style="text-align:justify">
-I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision making. Proficient in Python, SQL and visualisation techniques to drill down insights hidden in any data. Undergrad in Electrical Engineering from <a href='https://ceg.annauniv.edu/'>College of Engineering, Guindy</a>. Intrested in Embedded System, Machine learning, Optimisation and Data Analytics. 
+I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision making. Proficient in Python, SQL and visualisation techniques to drill down insights hidden in any data. Master's student in INFOTECH specilization in Embedded systems,<a href='https://www.uni-stuttgart.de/en/study/study-programs/Information-Technology-INFOTECH-M.Sc./'>University of Stuttgart</a>. Intrested in Embedded System, Machine learning, Optimisation and Data Analytics. Currently, Working as Workstudent in Bosch centre of Excellence for Software verification, Ludwigsburg.
 </p>
 
 - 💼 Worked as Data Analyst @ Infineon Technologies
   
-- 💬 Discuss with me over data science, machine learning, SEO and Optimisation
+- 💬 Discuss with me over data science, machine learning, Embedded systems and Optimisation
 
 
 ### 🧰 Frameworks and libraries
