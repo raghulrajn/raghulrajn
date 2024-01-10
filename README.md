@@ -5,8 +5,9 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<div align="center">
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&center=true&vCenter=true&multiline=true&random=false&width=435&height=75&lines=Master's+Student%2C+Embedded+Systems;Electrical+Engineer" alt="Typing SVG" /></a>
-
+</div>
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤵 Raghul Raj |Electrical Engineer | 💻 Data Analyst |  <img src="img\india.gif" width="30"><img src="img\taiwan.gif" width="30"> <img src="img\russia.gif" width="30"><img src="img\france.gif" width="30"></h3>
