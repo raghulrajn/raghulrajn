@@ -5,7 +5,7 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Master's+student,Embedded+Systems+Electrical+Engineer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&vCenter=true&multiline=true&random=false&width=435&lines=Master's+Student%2C+Embedded+Systems;Electrical+Engineer" alt="Typing SVG" /></a>
 
 
 <div align="center">
