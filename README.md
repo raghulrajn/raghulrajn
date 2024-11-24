@@ -1,17 +1,14 @@
 
 <h3 align="center">
-  Hi! I'm Raghul
+  Hi! I'm Raghul Raj
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&center=true&vCenter=true&multiline=true&random=false&width=435&height=75&lines=Master's+Student%2C+Embedded+Systems;Electrical+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&center=true&vCenter=true&multiline=true&random=false&width=435&height=75&lines=Master's+Student%2C+Embedded+Systems;INFOTECH" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">🤵 Raghul Raj |Electrical Engineer | 💻 Data Analyst |  <img src="img\india.gif" width="30"><img src="img\taiwan.gif" width="30"> <img src="img\russia.gif" width="30"><img src="img\france.gif" width="30"></h3>
-</div>
 <p align="center">
 <a href="https://www.linkedin.com/in/raghulraj2305/">
 <img alt='linkedln', src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,12 +21,12 @@
 
 ## Hi there 👋
 <p style="text-align:justify">
-I'm Raghul Raj, A data obsessive individual who looks on Stats on any decision making. Proficient in Python, SQL and visualisation techniques to drill down insights hidden in any data. Master's student in INFOTECH specilization in Embedded systems,<a href='https://www.uni-stuttgart.de/en/study/study-programs/Information-Technology-INFOTECH-M.Sc./'>University of Stuttgart</a>. Intrested in Embedded System, Machine learning, Optimisation and Data Analytics. Currently, Working as Workstudent in Bosch centre of Excellence for Software verification, Ludwigsburg.
+I'm Raghul Raj, An inquisitive engineer intrested to solve problems using technology. Proficient in Python, C++, Data Analytics, Machine learning and Deep learning. Master's student in INFOTECH specilization in Embedded systems,<a href='https://www.uni-stuttgart.de/en/study/study-programs/Information-Technology-INFOTECH-M.Sc./'>University of Stuttgart</a>.I am currently learning CUDA, OpenCL, and GPU architectures out of a strong interest and passion for high-performance computing.
 </p>
 
-- 💼 Worked as Data Analyst @ Infineon Technologies
+- 💼 Student @ ETAS, BOSCH
   
-- 💬 Discuss with me over data science, machine learning, Embedded systems and Optimisation
+- 💬 Discuss with me over Low level programming, Software defined vehicles, Machine learning, Deep learning and Embedded systems.
 
 
 ### 🧰 Frameworks and libraries
