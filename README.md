@@ -48,6 +48,6 @@ I'm Raghul Raj, An inquisitive engineer intrested to solve problems using techno
 </p>
 
 ## 📊 GitHub stats
-![Raghul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raghulrajn&show_icons=true&count_private=true)
+![Raghul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raghulrajn&show_icons=true&count_private=false)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raghulrajn&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
