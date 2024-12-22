@@ -28,7 +28,6 @@ I'm Raghul Raj, An inquisitive engineer intrested to solve problems using techno
   
 - 💬 Discuss with me over Low level programming, Software defined vehicles, Machine learning, Deep learning and Embedded systems.
 
-
 ### 🧰 Frameworks and libraries
 <p align="center">
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -37,15 +36,10 @@ I'm Raghul Raj, An inquisitive engineer intrested to solve problems using techno
 <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-D00000.svg?logo=Seaborn&logoColor=white"></a>
 <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=Plotly&logoColor=white"></a>
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/Scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+<a href="#"><img alt="Tensorflow" src= "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
+<a href="#"><img alt="scikit-learn" src= "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)"></a>
 </p>
 
-### 🗄️ Cloud and Miscellaneous Technologies
-<p align="center">
-<a href="#"><img alt="AWS" src ="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?logo=Amazon%20AWS&logoColor=white"></a>
-<a href="#"><img alt="Power BI" src ="https://img.shields.io/badge/Power%20BI-F2C811.svg?logo=Power%20BI&logoColor=white"></a>
-<a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-<a href="#"><img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"></a>
-</p>
 
 ## 📊 GitHub stats
 ![Raghul's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=raghulrajn&show_icons=true&count_private=false)
