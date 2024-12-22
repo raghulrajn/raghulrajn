@@ -12,8 +12,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/raghulraj2305/">
 <img alt='linkedln', src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://www.kaggle.com/raghulraj422">
-<img alt='Kaggle', src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 <a href="mailto: rahulraj.2305@gmail.com">
 <img alt='gmail', src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
@@ -36,8 +34,8 @@ I'm Raghul Raj, An inquisitive engineer intrested to solve problems using techno
 <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-D00000.svg?logo=Seaborn&logoColor=white"></a>
 <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=Plotly&logoColor=white"></a>
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/Scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-<a href="#"><img alt="Tensorflow" src= "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
-<a href="#"><img alt="scikit-learn" src= "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)"></a>
+<a href="#"><img alt="Tensorflow" src= "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white"></a>
+<a href="#"><img alt="scikit-learn" src= "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)"></a>
 </p>
 
 
