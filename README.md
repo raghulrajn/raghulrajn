@@ -28,11 +28,11 @@ I'm Raghul Raj, An inquisitive engineer intrested to solve problems using techno
 
 ### 🧰 Frameworks and libraries
 <p align="center">
+<a href="#"><img alt="C++" src=https://img.shields.io/badge/C++-blue></a>
+<a href="#"><img alt="Python" src=https://img.shields.io/badge/Python-blue></a>
+<a href="#"><img alt="Yocto" src=https://img.shields.io/badge/Yocto-purple></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-<a href="#"><img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-7952B3.svg?logo=matplotlib&logoColor=white"></a>
-<a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-D00000.svg?logo=Seaborn&logoColor=white"></a>
-<a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=Plotly&logoColor=white"></a>
 <a href="#"><img alt="scikit-learn" src="https://img.shields.io/badge/Scikit-learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
 <a href="#"><img alt="Tensorflow" src= "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&logo=TensorFlow&logoColor=white"></a>
 <a href="#"><img alt="pytorch" src= "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white"></a>
