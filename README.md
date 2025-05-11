@@ -19,7 +19,7 @@
 
 ## Hi there 👋
 <p style="text-align:justify">
-I'm Raghul Raj, An inquisitive engineer intrested to solve problems using technology. Proficient in Python, C++, Data Analytics, Machine learning and Deep learning. Master's student in INFOTECH specilization in Embedded systems,<a href='https://www.uni-stuttgart.de/en/study/study-programs/Information-Technology-INFOTECH-M.Sc./'>University of Stuttgart</a>.I am currently learning CUDA, OpenCL, and GPU architectures out of a strong interest and passion for high-performance computing.
+I'm Raghul Raj, An inquisitive engineer intrested to solve problems using technology. Proficient in Python, C++, Data Analytics, Machine learning and Deep learning. Master's student in INFOTECH specilization in Embedded systems,<a href='https://www.uni-stuttgart.de/en/study/study-programs/Information-Technology-INFOTECH-M.Sc./'>University of Stuttgart</a>.I am currently learning CUDA, OpenCL, and GPU architectures out of a strong interest and passion for high-performance computing and Working as Student with ETAS in BSP team focusing of Performance benchmarking of Embedded Linux. 
 </p>
 
 - 💼 Student @ ETAS, BOSCH
